@@ -1,0 +1,54 @@
+h1{
+    color:rgb(9, 9, 84);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.cityName{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+input,button{
+    border-radius: 70px;
+    padding: 10px 20px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: large;
+
+    
+}
+button{
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 70px;
+    padding: 10px 20px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: large;
+    background-color: purple;
+
+
+}
+body{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url('weath1.jpg');
+    font-weight: bold;
+    font-size: xx-large;
+    padding:10px;
+
+
+}
+button:hover{
+    background-color: rgb(245, 113, 245);
+}
+#result{
+    margin-top: 20px;
+    font-size: xx-large;
+    background-color: rgba;
+}
